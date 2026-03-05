@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "OSReader 鸿蒙开源阅读器主入口模块",
+  "main": "",
+  "author": "PynZhu",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "core": "file:../core"
+  }
+}
